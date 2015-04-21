@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            SoundNodes
+tagline:          '连接您钟爱的喇叭'
+description:      '追赶流媒体音乐的普及趋势，通过互联的方式提升我们音响的使用体验。'
+url:              http://www.soundnodes.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'SoundNodes'
+  url:            http://www.soundnodes.com
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/soundnodes/soundnodes

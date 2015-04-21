@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 介绍
 ---
 
 <p class="message">
