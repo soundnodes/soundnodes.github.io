@@ -1,30 +1,50 @@
 ---
 layout: page
-title: 介绍
+title: 项目介绍
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<div class="message">
+  发起SoundNodes项目的愿景是<strong>“让人们便利地享受音乐”</strong>
+</div>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## 背景
 
-There are currently two themes built on Poole:
+我其实只是一个业余的码农，其实连码农都算不上，因为没有作物收成，只是闲不住偶尔写写代码玩而已。同时我是一个非常业余的音乐爱好者，曾几何时音乐对我非常重要，正如空气一样。
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+我不是热衷历史的人，但如果说音乐是人类自远古就有的东西大家应该不会反对。在爱迪生发明留声机前人们并不是可以随时随地聆听音乐，随着科技的发展我们现在已经能够很便利地享受音乐了，然而我认为对音乐爱好者而言还有好的需求没有被满足。
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* 我们已经很方便地通过移动设备享受流媒体音乐流媒体音乐，然而在家居环境的使用还不够完善
+* 无线音频设备的品质无法满足各大音乐爱好者的个性需求
+* 现有家用音乐装置设置和使用复杂，不易普及
 
-## Setup
+谢谢你的阅读，期待你的继续关注和支持。
 
-Some fun facts about the setup of this project include:
+## 重要时刻
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<table>
+  <thead>
+    <tr>
+      <th>时间</th>
+      <th>事件</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2013 ~ 2014</td>
+      <td>产业观察调研</td>
+    </tr>
+    <tr>
+      <td>2015-01 ~ 2015-03</td>
+      <td>嵌入式系统调研选型</td>
+    </tr>
+    <tr>
+      <td>2015-04-01 ~ 2015-04-20</td>
+      <td>思考项目内涵，社区分工</td>
+    </tr>
+    <tr>
+      <td>2015-04-21</td>
+      <td>注册域名，建立网站</td>
+    </tr>
+  </tbody>
+</table>
