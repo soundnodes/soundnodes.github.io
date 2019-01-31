@@ -1,26 +1,60 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
+# SEO settings
+title: ""
+title2: "SOUNDNODES" #"X.H." # default: ""
+description: "Recently focus on audio device."
+keywords: "photography, software, audio, github, SEO, blog, web, minimalist, ruby, python"
+url: # site url
+# baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
+baseurl: null # apply null if repo name is something like username.github.io
 
-# Setup
-title:            SoundNodes
-tagline:          '连接您钟爱的喇叭'
-description:      '追赶流媒体音乐的普及趋势，通过互联的方式提升我们音响的使用体验。'
-url:              http://www.soundnodes.com
-baseurl:          /
+google_analytics: UA-XXXXX-XX
+repo:
+disqus_shortname:
+twitter_username:
+comments: true
 
+# Build settings
+#permalink   : /:year/:title/
+permalink:        /pages/:year-:month-:day-:title.html  #pretty
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
 author:
-  name:           'SoundNodes'
-  url:            http://www.soundnodes.com
+  name     : "SOUNDNODES"
+  job      : "DIYer"
+  bio      : "also I am a shutterbug, a DIYer, an audiophile, a software engineer. I am writing this blog in Chinese and Chinglish."
+  thumb    :
+  email    : mail@zhouxuhui.com
+  url      : ""
+  github   : http://github.com/xuhui
+  twitter  :
+  facebook :
+  linkedin :
 
-paginate:         5
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@HeiswayiNrird"
 
-# Custom vars
-version:          2.1.0
+gems:
+  - bourbon
+  - jekyll-paginate
 
-github:
-  repo:           https://github.com/soundnodes/soundnodes
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["vendor", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

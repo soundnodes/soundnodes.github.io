@@ -3,35 +3,22 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+{% include intro.html %}
 
-    <span class="post-date">{{ post.date | date: "%Y/%m/%d" }}</span>
-
-    {{ post.content }}
+<section class="post-list">
+  <div class="container">
+    {% for post in site.posts %}
+      {% assign currentdate = post.date | date: "%Y" %}
+      {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <h2 class="category-title">{{ currentdate }}</h2>
+        {% assign date = currentdate %}
+      {% endif %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+      </article>
+      {% if forloop.last %}{% endif %}
+    {% endfor %}
   </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">更早的文章</a>
-  {% else %}
-    <span class="pagination-item older">更早的文章</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">更新的文章</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">更新的文章</span>
-  {% endif %}
-</div>
+</section>
