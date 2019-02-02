@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Note taking
+title: 整理零散的一些笔记
 category: audio
 comments: true
 ---
