@@ -1,5 +1,8 @@
 ---
+title: About..
 layout: page
+---
+
 ---
 
 ## 关于这个博客 About this blog
@@ -28,6 +31,14 @@ My name is Zhou Xuhui, usually I am called <strong class="author-name" itemprop=
 
 > Yes. I am a software programmer and an EE engineer.
 
+* Why blogging in English/Chinglish?
+
+> As many projects are inspired/forked/learned from opensource projects, try to write in English for better cross reference between projects.
+
 * How to ping me?
 
-> wechat me : makerjoe
+> wechat me : search by id: <strong>makerjoe</strong> or scan below qrcode
+
+<div style="text-align: center">
+<img src="/images/makerjoe-wechat-qrcode.jpg" alt="makerjoe wechat qrcode" style="width:200px;"/>
+</div>
