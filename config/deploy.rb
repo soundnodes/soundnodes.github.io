@@ -1,4 +1,4 @@
-set :application, "blog.zhouxuhui.com"
+set :application, "www.soundnodes.com"
 set :repository,  "_site"
 
 # set :scm, :git # You can set :scm explicitly or Capistrano will make an intelligent guess based on known version control directory names
@@ -11,9 +11,9 @@ set :copy_compress, :gzip
 set :use_sudo, false
 
 set :user, "ruby"
-set :deploy_to, "/blog/pages"
+set :deploy_to, "/blog/www.soundnodes.com"
 
-role :web, "blog.zhouxuhui.com"                          # Your HTTP server, Apache/etc
+role :web, "104.194.78.243"                          # Your HTTP server, Apache/etc
 ## role :app, "your app-server here"                          # This may be the same as your `Web` server
 ## role :db,  "your primary db-server here", :primary => true # This is where Rails migrations will run
 ## role :db,  "your slave db-server here"
