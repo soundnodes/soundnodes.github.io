@@ -7,7 +7,7 @@ layout: page
 
 ## 关于这个博客 About this blog
 
-This blog mainly post something about Joe's DIY projects and the ideas, information on audio.
+This blog mainly post something about Joe's DIY projects and the ideas and information on audio.
 
 ## 关于博主 About Joe
 
@@ -21,11 +21,11 @@ My name is Zhou Xuhui, usually I am called <strong class="author-name" itemprop=
 
 * Do you do open source for your projects?
 
-> I am not guarantee what I share will meet your expectation, basically I like to share the information/meterials so that the DIY is possible to be duplicate. also the project can be re-work for better performance base on the share information. But I don't like to see someone only change the logo/name and decalare as a new product.
+> I am not guarantee what I share will meet your expectation, basically I like to share the information/meterials so that the DIY is possible to be duplicated, but I don't like to see someone only change the logo/name and decalare as a new product.
 
 * Do you sale the boards or elements?
 
-> I have no plan to sell anything right now. but maybe I will sell something mature audio boards in the comming days.
+> I have no plan to sell anything right now. but maybe I will sell something mature audio boards in the comming months.
 
 * Do you do another projects?
 
