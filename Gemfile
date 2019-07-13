@@ -6,7 +6,7 @@ source 'https://gems.ruby-china.com'
 
 
 #group :development do
-  gem 'ffi', '= 1.9.0'
+  gem 'ffi', '= 1.10.0'
   gem 'html-proofer'
   gem 'jekyll', '~> 3.0', '>= 3.0.1'
   gem 'jekyll-paginate', '~> 1.1'
@@ -19,3 +19,5 @@ source 'https://gems.ruby-china.com'
 ## gem 'capistrano-file-permissions'
 
 gem 'capistrano', '~> 2.15.9'
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
