@@ -1,0 +1,29 @@
+---
+layout: default
+title: Home
+---
+<section class="intro">
+  <div class="container">
+    <p class="lead">
+      对于建模，3D打印，伺服电动机，运动控制，各种总线，MMI。。，我只是略懂。这受益于曾经作为研发总监服务过一家工控/机器人系统公司。细部技术挺多，也很有趣。
+    </p>
+  </div>
+</section>
+
+<section class="post-list">
+  <div class="container">
+    {% for post in site.categories.industry %}
+      {% assign currentdate = post.date | date: "%Y" %}
+      {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <h2 class="category-title">{{ currentdate }}</h2>
+        {% assign date = currentdate %}
+      {% endif %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+      </article>
+      {% if forloop.last %}{% endif %}
+    {% endfor %}
+  </div>
+</section>

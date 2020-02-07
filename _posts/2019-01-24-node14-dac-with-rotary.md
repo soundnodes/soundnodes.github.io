@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NODE 14 - DAC with rotary
-category: diy
+category: audio
 comments: false
 ---
 
