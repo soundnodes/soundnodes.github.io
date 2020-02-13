@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 曾经尝试过的各种 EDA 工具
+title: PCB EDA 工具（1） - 先后使用过的各种画板软件
 category: ee
 comments: false
 ---
