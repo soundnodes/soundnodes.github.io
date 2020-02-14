@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 易于制作的LINUX板子 - 构思
+title: LCD显示面板 - 规格
 category: [ee, linux]
 comments: false
 ---

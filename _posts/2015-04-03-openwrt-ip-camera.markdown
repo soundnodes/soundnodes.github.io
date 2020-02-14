@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小米 MINI 路由器变 IP CAMERA
+title: OpenWrt - 小米MINI路由器变IP CAMERA
 author: X. H.
 category: linux
 ---

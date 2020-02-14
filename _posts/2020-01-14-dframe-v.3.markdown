@@ -1,11 +1,15 @@
 ---
 layout: post
-title: 易于制作的LINUX板子 - 第三次尝试
+title: LCD显示面板 - 第三版
 category: [ee, linux]
 comments: false
 ---
 
-
 ## v.3
+
+* 增加FPC连接座，准备增加以太网子板
+
+---
+
 ![w800](/images/DFRAME-V.3.png)
 

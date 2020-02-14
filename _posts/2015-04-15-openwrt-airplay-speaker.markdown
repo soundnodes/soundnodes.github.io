@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小米 MINI 路由器 + USB 声卡变 AirPlay 喇叭
+title: OPenWrt - 小米MINI路由器变AirPlay喇叭
 author: X. H.
 category: linux
 ---
