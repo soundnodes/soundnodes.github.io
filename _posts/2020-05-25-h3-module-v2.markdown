@@ -1,0 +1,15 @@
+---
+layout: post
+title: Linux module with Allwinner H3 SOC - v2
+category: [ee, linux]
+comments: false
+---
+
+Linux in a module
+
+* add emmc
+* added spi-flash
+
+---
+
+![w800](/images/h3-module-v2.jpg)

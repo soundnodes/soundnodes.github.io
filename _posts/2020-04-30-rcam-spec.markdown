@@ -1,0 +1,14 @@
+---
+layout: post
+title: Remote Camera (3)
+category: [ee, linux]
+comments: false
+---
+
+## PCB v0.2
+
+* Change the part layout/placement
+
+---
+
+![w800](/images/rcam2.jpg)

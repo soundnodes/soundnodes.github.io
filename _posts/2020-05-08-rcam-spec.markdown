@@ -1,0 +1,15 @@
+---
+layout: post
+title: Remote Camera (4)
+category: [ee, linux]
+comments: false
+---
+
+PCB v0.3
+
+* Change to use STC8A
+* add segment-7 led display option
+
+---
+
+![w800](/images/rcam3.jpg)

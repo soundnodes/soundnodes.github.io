@@ -1,0 +1,15 @@
+---
+layout: post
+title: Linux module with Allwinner H3 SOC - v1
+category: [ee, linux]
+comments: false
+---
+
+Linux in a module
+
+* H3
+* DDR2
+
+---
+
+![w800](/images/h3-module-v1.jpg)

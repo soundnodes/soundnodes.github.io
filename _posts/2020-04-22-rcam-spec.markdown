@@ -1,0 +1,17 @@
+---
+layout: post
+title: Remote Camera (2)
+category: [ee, linux]
+comments: false
+---
+
+## PCB v0.1
+
+* LCD1602 DISPLAY
+* STC MCU for power management
+* power with one 18650 battery
+* use nano pi as linux system for picture capturing
+
+---
+
+![w800](/images/rcam1.jpg)

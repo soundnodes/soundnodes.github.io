@@ -1,0 +1,14 @@
+---
+layout: post
+title: Remote Camera (5)
+category: [ee, linux]
+comments: false
+---
+
+## v0.4
+
+* Replace nano pi with mini PCI-E form factor linux module
+
+---
+
+![w800](/images/rcam4.jpg)
