@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote Camera (4)
+title: Remote Camera - rev 03
 category: [ee, linux]
 comments: false
 ---

@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Linux module with Allwinner H3 SOC - v2
+title: Linux module MODEL ONE - rev 02
 category: [ee, linux]
 comments: false
 ---
 
 Linux in a module
 
-* add emmc
-* added spi-flash
+* Add EMMC
+* Added spi-flash
 
 ---
 

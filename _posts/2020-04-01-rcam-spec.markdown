@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remote Camera (1)
+title: Remote Camera - spec
 category: [ee, linux]
 comments: false
 ---

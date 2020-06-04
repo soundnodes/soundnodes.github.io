@@ -1,0 +1,15 @@
+---
+layout: post
+title: Remote Camera - rev 04
+category: [ee, linux]
+comments: false
+---
+
+## v0.4
+
+* Replace nano pi with mini PCI-E form factor linux module model one rev02
+* fix LCD1602A wiring
+
+---
+
+![w800](/images/rcam4.jpg)

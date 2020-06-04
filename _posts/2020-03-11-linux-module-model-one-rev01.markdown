@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux module with Allwinner H3 SOC - v1
+title: Linux module MODEL ONE - rev 01
 category: [ee, linux]
 comments: false
 ---
@@ -12,4 +12,4 @@ Linux in a module
 
 ---
 
-![w800](/images/h3-module-v1.jpg)
+![w800](/images/h3-module-v1-pic01.png)
