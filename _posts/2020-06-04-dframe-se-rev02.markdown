@@ -5,12 +5,12 @@ category: [ee, linux]
 comments: false
 ---
 
-## second edition rev 0.1
+## Second Edition Rev 0.1
 
-* use linux module model two rev 01
+* Use linux module model two rev 01
 * 40 PIN LCD(out) to 60 PIN(in) LCD interfacing
 * Optional black light power replacing the power from module
-* TEST PINs
+* Add TEST PINs
 
 ---
 
