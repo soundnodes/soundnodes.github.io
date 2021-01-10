@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LIST OF LINUX READY SOC
+title: 几款较为常用的能跑LINUX的SOC
 category: [ee, linux]
 comments: false
 ---
@@ -21,3 +21,8 @@ comments: false
 | **PERFORMANCE**       | FAIR     | FAIR   | GOOD | LOW      | OK     | FAIR     |
 | **POWER CONSUMPTION** | MIDDLE   | MIDDLE | HI   | LOW      | MIDDLE | LOW      |
 | **COMMUNITY**         | OK       | POOR   | OK   | GOOD     | OK     | OK       |
+
+---
+附注
+
+其它如RK系列，全志其它系列（S3、A10、A20、A64、A33）也很常见，考虑公开资料的完整性、物料获取渠道等。周工考虑开始整H3。

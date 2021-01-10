@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linux module MODEL TWO - rev 02
-category: [ee, pcb, linux, audio]
+category: [ee, pcb, linux]
 comments: false
 ---
 
