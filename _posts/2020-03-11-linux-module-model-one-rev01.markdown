@@ -17,4 +17,4 @@ Linux in a module
 ---
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20200605-h3-card/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20200605-h3-card/bom/ibom.html)

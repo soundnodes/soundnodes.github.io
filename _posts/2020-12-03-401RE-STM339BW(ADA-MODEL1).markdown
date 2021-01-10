@@ -30,5 +30,5 @@ Rev 1
 - 蓝牙、RF电路设计调试、测试
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20201203-401RE-STM339BW(ADA-MODEL1)/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20201203-401RE-STM339BW(ADA-MODEL1)/bom/ibom.html)
 

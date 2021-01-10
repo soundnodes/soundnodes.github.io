@@ -24,5 +24,5 @@ STA339BW CLASSD 单一功能功放板。
 - 蓝牙、RF电路设计调试、测试
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20201122-STA339BW-AMP-BOARD/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20201122-STA339BW-AMP-BOARD/bom/ibom.html)
 

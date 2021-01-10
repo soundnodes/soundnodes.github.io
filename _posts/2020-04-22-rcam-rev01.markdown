@@ -17,4 +17,4 @@ comments: false
 ![w800](/images/rcam1.jpg)
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20200430-rcam-pcb-v01/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20200430-rcam-pcb-v01/bom/ibom.html)

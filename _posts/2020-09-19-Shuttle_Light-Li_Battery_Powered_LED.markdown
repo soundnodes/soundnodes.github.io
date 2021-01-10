@@ -20,5 +20,5 @@ Rev 1
 ---
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20200919-Shuttle_Light-Li_Battery_Powered_LED/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20200919-Shuttle_Light-Li_Battery_Powered_LED/bom/ibom.html)
 

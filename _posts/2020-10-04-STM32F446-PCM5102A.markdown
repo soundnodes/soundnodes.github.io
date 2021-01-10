@@ -21,5 +21,5 @@ Rev 1
 - 已经掌握STM32F4的设计和使用
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20201004-STM32F446-PCM5102A/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20201004-STM32F446-PCM5102A/bom/ibom.html)
 

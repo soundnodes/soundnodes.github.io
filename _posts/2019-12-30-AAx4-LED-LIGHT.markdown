@@ -20,5 +20,5 @@ Rev 1
 ---
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20191230-AAx4-LED-LIGHT/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20191230-AAx4-LED-LIGHT/bom/ibom.html)
 

@@ -31,5 +31,5 @@ Rev 1
 - WIFI芯片on board设计
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20201231-F1C100S-SMART-PANEL/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20201231-F1C100S-SMART-PANEL/bom/ibom.html)
 

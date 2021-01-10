@@ -19,5 +19,5 @@ Rev 1
 ---
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20191028-motor-controller-w-clock/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20191028-motor-controller-w-clock/bom/ibom.html)
 

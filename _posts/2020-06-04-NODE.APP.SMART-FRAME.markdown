@@ -11,5 +11,5 @@ comments: false
 
 ---
 
-[物料清单和安装位置](/static/KiCAD-20200604-NODE.APP.SMART-FRAME/bom/ibom/html)
+[物料清单和安装位置](/static/KiCAD-20200604-NODE.APP.SMART-FRAME/bom/ibom.html)
 

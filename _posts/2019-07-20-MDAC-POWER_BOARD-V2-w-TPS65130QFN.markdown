@@ -18,5 +18,5 @@ Rev 2
 ---
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20190720-MDAC-POWER_BOARD-V2-w-TPS65130QFN/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20190720-MDAC-POWER_BOARD-V2-w-TPS65130QFN/bom/ibom.html)
 

@@ -18,5 +18,5 @@ Rev 3
 ---
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20190912-MDAC-POWER_BOARD-V3-w-MC34063AD/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20190912-MDAC-POWER_BOARD-V3-w-MC34063AD/bom/ibom.html)
 

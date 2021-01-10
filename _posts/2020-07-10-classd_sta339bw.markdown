@@ -19,5 +19,5 @@ STA339BW CLASSD 开发板。
 - 已经熟悉CLASS-D电路的设计和调试
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20200710-classd_sta339bw/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20200710-classd_sta339bw/bom/ibom.html)
 

@@ -58,7 +58,7 @@ comments: false
 
 ---
 
-[物料清单和安装位置](/static/KiCAD-20190707-misc-heatplat/bom/ibom/html)
+[物料清单和安装位置](/static/KiCAD-20190707-misc-heatplat/bom/ibom.html)
 
 ---
 

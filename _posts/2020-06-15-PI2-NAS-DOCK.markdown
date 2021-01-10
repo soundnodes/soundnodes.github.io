@@ -12,5 +12,5 @@ Rev 1
 为树莓派设计一块连接板以提供足够的电力驱动2.5吋USB硬盘，安装NAS服务器。
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20200615-PI2-NAS-DOCK/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20200615-PI2-NAS-DOCK/bom/ibom.html)
 

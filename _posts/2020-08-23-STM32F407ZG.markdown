@@ -20,5 +20,5 @@ Rev 1
 - CAN BUS
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20200823-STM32F407ZG/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20200823-STM32F407ZG/bom/ibom.html)
 

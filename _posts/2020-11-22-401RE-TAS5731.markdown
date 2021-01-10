@@ -23,5 +23,5 @@ Rev 1
 - 已经掌握STM32F4的设计和使用，已经设计好UAC方案
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20201122-401RE-TAS5731/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20201122-401RE-TAS5731/bom/ibom.html)
 

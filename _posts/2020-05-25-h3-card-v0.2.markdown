@@ -11,5 +11,5 @@ comments: false
 
 ---
 
-[物料清单和安装位置](/static/KiCAD-20200525-h3-card-v0.2/bom/ibom/html)
+[物料清单和安装位置](/static/KiCAD-20200525-h3-card-v0.2/bom/ibom.html)
 

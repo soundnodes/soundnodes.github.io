@@ -19,5 +19,5 @@ Rev 1
 ---
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20190720-MDAC-POWER_BOARD-V1/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20190720-MDAC-POWER_BOARD-V1/bom/ibom.html)
 

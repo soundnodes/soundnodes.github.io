@@ -20,5 +20,5 @@ Rev 2
 ---
 
 ## 物料清单和安装位置
-Click->[IBOM](/static/KiCAD-20191126-motor-clock-v2/bom/ibom/html)
+Click->[IBOM](/static/KiCAD-20191126-motor-clock-v2/bom/ibom.html)
 
