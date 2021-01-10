@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remote Camera - spec
-category: [ee, linux]
+category: [ee, linux, iot]
 comments: false
 ---
 

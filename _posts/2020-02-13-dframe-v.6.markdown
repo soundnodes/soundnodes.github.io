@@ -12,3 +12,9 @@ comments: false
 ---
 
 ![w800](/images/DFRAME-V.6.1.png)
+
+---
+
+## 物料清单和安装位置
+Click->[IBOM](/static/KiCAD-20200223-dframe/bom/ibom/html)
+

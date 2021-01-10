@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XDB 项目 0 到 1000+
-category: ee
+category: [ee, linux, pcb]
 comments: false
 ---
 ```

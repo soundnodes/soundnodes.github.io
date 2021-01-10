@@ -2,7 +2,7 @@
 layout: post
 title: OPenWrt - 小米MINI路由器变AirPlay喇叭
 author: X. H.
-category: linux
+category: [linux, audio]
 ---
 
 # 工具原料

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LCD显示面板 - 第二版
-category: [ee, linux]
+category: [ee, linux, iot]
 comments: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有关 Audio 产品的历史
-category: audio
+category: [audio]
 comments: true
 ---
 

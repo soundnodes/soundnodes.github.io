@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SONOS 罗列的 HiFi 历史
-category: audio
+category: [audio]
 comments: true
 ---
 
